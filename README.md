@@ -4,5 +4,5 @@
 
 ### RocketMQ学习文档
 
-点击[这里](RcoketMq/readme.md)开始学习RocketMQ
+点击[这里](RocketMQ/readme.md)开始学习RocketMQ
 
