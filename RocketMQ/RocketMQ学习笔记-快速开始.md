@@ -16,7 +16,7 @@
 
 ## 下载和编译发布的版本
 
-点击[这里](https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.4.0/rocketmq-all-4.4.0-source-release.zip)下载4.40源代码的发布版本，也可以点击[这里](<http://rocketmq.apache.org/release_notes/release-notes-4.4.0/)下载二进制运行的发布版本
+点击[这里](https://www.apache.org/dyn/closer.cgi?path=rocketmq/4.4.0/rocketmq-all-4.4.0-source-release.zip)下载4.40源代码的发布版本，也可以点击[这里](http://rocketmq.apache.org/release_notes/release-notes-4.4.0/)下载二进制运行的发布版本
 
 然后执行下面的命令解压缩4.40源码版本的，然后构建它的二进制版本。
 
